@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: contain; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/PolvosMagicos/dotfiles/main/assets/wallpapers/Shinji%20and%20Kaworu%20colorized%20-%20cropped.jpg');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: contain; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://github.com/PolvosMagicos/dotfiles/blob/main/assets/wallpapers/Shinji-and-Kaworu-colorized-cropped.png?raw=true');]{x0000}$}
 ```
 
 <!--
