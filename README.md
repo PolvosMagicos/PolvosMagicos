@@ -1,4 +1,4 @@
-## Hi there 👋
+## Just chilling
 
 ```math
 \ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: contain; width: 100vw; background-image: url('https://github.com/PolvosMagicos/dotfiles/blob/main/assets/wallpapers/Shinji-and-Kaworu-colorized-cropped.png?raw=true');]{x0000}$}
