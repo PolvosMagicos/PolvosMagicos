@@ -4,6 +4,12 @@
 \ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: contain; width: 100vw; background-image: url('https://github.com/PolvosMagicos/dotfiles/blob/main/assets/wallpapers/Shinji-and-Kaworu-colorized-cropped.png?raw=true');]{x0000}$}
 ```
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PolvosMagicos/PolvosMagicos/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PolvosMagicos/PolvosMagicos/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/PolvosMagicos/PolvosMagicos/output/github-snake.svg" />
+</picture>
+
 <!--
 **PolvosMagicos/PolvosMagicos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
